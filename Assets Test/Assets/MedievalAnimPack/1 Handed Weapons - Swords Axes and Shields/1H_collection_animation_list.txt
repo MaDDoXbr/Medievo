@@ -1,0 +1,57 @@
+1H sword collection animation list. (Motion Mixer animation sequences)
+
+
+1.1H_charging: 0 – 22 fr., 22 fr.
+2.1Hsword_banging_shield: 23 – 43 fr., 20 fr.
+3.1Hcombat_mode: 44 – 94 fr., 50 fr. 
+4.1Hsword_walk: 95 – 130 fr., 35 fr.
+
+5.1Hdodge_backwards: 131 – 166 fr., 35 fr.
+6.1Hdodge_to_left: 167 – 202 fr., 35 fr.
+7.1Hdodge_to_right: 203 – 238 fr., 35 fr.
+8.1Hduck_below_high_swing: 239 – 274 fr., 35 fr.
+
+9.1Hshield_block_high_front: 275 – 310 fr., 35 fr.
+10.1Hshield_block_high_left: 311 – 346 fr., 35 fr.
+11.1Hshield_block_high_right: 347 – 382 fr., 35 fr.
+
+12.1Hshield_block_low_front: 383 – 418 fr., 35 fr.
+13.1Hshield_block_low_left: 419 – 454 fr., 35 fr.
+14.1Hshield_block_low_right: 455 – 490 fr., 35 fr.
+
+15.1Hshield_block_mid_front: 491 – 526 fr., 35 fr.
+16.1Hshield_block_mid_left: 527 – 562 fr., 35 fr.
+17.1Hshield_block_mid_right: 563 – 598 fr., 35 fr.
+
+18.1Hsword_parry_from_straight_down: 599 – 634 fr., 35 fr.
+19.1Hsword_parry_high_left: 635 – 670 fr., 35 fr.
+20.1Hsword_parry_high_right: 671 – 706 fr., 35 fr.
+
+21.1Hsword_parry_low_front: 707 – 742 fr., 35 fr.
+22.1Hsword_parry_low_left: 743 – 778 fr., 35 fr.
+23.1Hsword_parry_low_right: 779 – 814  fr., 35 fr.
+
+24.1Hsword_parry_mid_front: 815 – 850 fr., 35 fr.
+25.1Hsword_parry_mid_left: 851 – 886 fr., 35 fr.
+26.1Hsword_parry_mid_right: 887 – 922 fr., 35 fr.
+
+27.1Hsword_swing_high_left: 923 – 958 fr., 35 fr.
+28.1Hsword_swing_high_right: 959 – 994 fr., 35 fr.
+
+29.1Hsword_swing_high_straight_down: 995 – 1030 fr., 35 fr.
+
+30.1Hsword_swing_low_left: 1031 – 1066 fr., 35 fr.
+31.1Hsword_swing_low_right: 1067 – 1102 fr., 35 fr.
+
+32.1Hsword_swing_mid_left: 1103 – 1138 fr., 35 fr.
+33.1Hsword_swing_mid_right: 1139 – 1174 fr., 35 fr.
+
+34.1Hsword_thrust_high: 1175 – 1210 fr., 35 fr.
+35.1Hsword_thrust_low: 1211 – 1246 fr., 35 fr.
+36.1Hsword_thrust_mid: 1247 – 1282 fr., 35 fr.
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+Crossbow male warrior animation list. (Motion Mixer animation sequences)
+
+
+Crossbow_animations:
+1) Crossbow_R_charging: 0 – 100 fr.,
+2) Crossbow_R_combat_mode: 101 – 151 fr.,
+3) Crossbow_R_ready_arrow_fromSide: 152 – 212 fr.,
+4) Crossbow_R_aim: 213 – 313 fr.,
+5) Crossbow_R_shoting: 314 – 349 fr.,
+

@@ -1,0 +1,47 @@
+polearms male warrior animation list. (Motion Mixer animation sequences)
+
+Distance between two male warriors - 2.270 meters
+
+
+1) male_warrior@Spear_combat_mode: 0 – 50 fr.,
+
+2) male_warrior@Spear_dodge_backwards: 51 – 86 fr.,
+3) male_warrior@Spear_dodge_to_lef: 87 – 122 fr.,
+4) male_warrior@Spear_dodge_to_right: 123 – 158 fr.,
+5) male_warrior@Spear_duck_below_high_swing: 159 – 194 fr.,
+
+6) male_warrior@Spear_parry_from_stright_down: 195 – 230 fr.,
+
+7) male_warrior@Spear_parry_high_front: 231 – 266 fr.,
+8) male_warrior@Spear_parry_high_left: 267 – 302 fr.,
+9) male_warrior@Spear_parry_high_right: 303 – 338 fr.,
+
+10) male_warrior@Spear_parry_low_front: 339 – 374 fr.,
+11) male_warrior@Spear_parry_low_left: 375 – 410 fr.,
+12) male_warrior@Spear_parry_low_right: 411 – 446  fr.,
+
+13) male_warrior@Spear_parry_mid_front: 447 – 482 fr.,
+14) male_warrior@Spear_parry_mid_left: 483 – 518 fr.,
+15) male_warrior@Spear_parry_mid_right: 519 – 554 fr.,
+
+16) male_warrior@Spear_swing_high_left: 555 – 590 fr.,
+17) male_warrior@Spear_swing_high_right: 591 – 626 fr.,
+
+18) male_warrior@Spear_swing_high_straight_down: 627 – 662 fr.,
+
+19) male_warrior@Spear_swing_low_left: 663 – 698 fr.,
+20) male_warrior@Spear_swing_low_right: 699 – 734 fr.,
+
+21) male_warrior@Spear_swing_mid_left: 735 – 770 fr.,
+22) male_warrior@Spear_swing_mid_right: 771 – 806 fr.,
+
+23) male_warrior@Spear_thrust_high: 807 – 842 fr.,
+24) male_warrior@Spear_thrust_low: 843 – 878 fr.,
+25) male_warrior@Spear_thrust_mid: 879 – 914 fr.,
+
+25) male_warrior@Spear_walk: 915 – 950 fr.,
+
+26) male_warrior@Spear_charge: 951 – 973 fr.,
+
+
+

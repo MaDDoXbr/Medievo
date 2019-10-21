@@ -1,0 +1,41 @@
+Fantasy Character – Animated Wizard Baby
+
+Animation list:
+
+0) T-pose: 0 fr.,
+1) M_combat_mode_A: 1 – 75 fr.,
+
+2) M_dodge_to_left: 76 – 111 fr.,
+3) M_dodge_to_right: 112 – 147 fr.,
+
+4) M_magic_helix_spell: 148 – 218 fr.,
+5) M_staff_block: 219 – 254 fr.,
+6) M_staff_earthquake_spell: 255 – 290 fr.,
+
+7) M_staff_Hit: 291 – 326 fr.,
+8) M_straight_down_hit: 327 – 362 fr.,
+9) M_swing_right: 363 – 398 fr.,
+
+10) M_Taking_hit: 399 – 434 fr.,
+
+11) M_combat_mode_B: 435 – 510 fr.,
+12) M_duck_below_swing: 511 – 546  fr.,
+
+13) M_magic_light_spell: 547 – 597 fr.,
+14) M_magic_shot_stright: 598 – 633 fr.,
+
+15) M_combat_mode_C: 634 – 709 fr.,
+
+16) M_buff_spell_A: 710 – 760 fr.,
+18) M_buff_spell_B: 761 – 851 fr.,
+
+18) M_fire_ball_spell: 852 – 927 fr.,
+
+19) M_spell_cast_A: 928 – 998 fr.,
+20) M_spell_cast_B: 999 – 1034 fr.,
+21) M_spell_cast_C: 1035 – 1070 fr.,
+22) M_spell_cast_D: 1071 – 1106 fr.,
+
+
+23) M_making_potion: 1107 – 1137 fr.,
+24) M_Drinking_potion: 1138 – 1193 fr.,
