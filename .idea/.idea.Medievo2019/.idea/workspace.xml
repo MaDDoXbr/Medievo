@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="283bf466-3bbe-47c3-b726-bf424fe87dac" name="Default Changelist" comment="" />
+    <list default="true" id="283bf466-3bbe-47c3-b726-bf424fe87dac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3D/FantasyCharactersDwarf-Free/Models/DraftFree.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3D/FantasyCharactersDwarf-Free/Models/DraftFree.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SelectRandomIdle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SelectRandomIdle.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventTest.cs" root0="FORCE_HIGHLIGHTING" />
@@ -21,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1SZULFFeJCXQW5xlCoueUV2waMK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -79,6 +88,7 @@
       <workItem from="1572284275667" duration="3607000" />
       <workItem from="1572355863018" duration="1341000" />
       <workItem from="1572963508495" duration="3381000" />
+      <workItem from="1573144104544" duration="2001000" />
     </task>
     <servers />
   </component>
@@ -87,6 +97,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
