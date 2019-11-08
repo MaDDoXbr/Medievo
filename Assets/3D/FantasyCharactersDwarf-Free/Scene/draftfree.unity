@@ -1639,7 +1639,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &774522215
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2027,7 +2027,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1193301868869138, guid: 0c6d87199f687400184146c841adf2bd, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4666283878823798, guid: 0c6d87199f687400184146c841adf2bd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2061,6 +2061,11 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 95746487273508626, guid: 0c6d87199f687400184146c841adf2bd,
+        type: 3}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 9000000, guid: 4b31158a600f6cd46b2255fe65387395, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c6d87199f687400184146c841adf2bd, type: 3}
 --- !u!1 &1077428961 stripped
@@ -3965,6 +3970,10 @@ PrefabInstance:
     - target: {fileID: 100014, guid: 4b31158a600f6cd46b2255fe65387395, type: 3}
       propertyPath: m_Name
       value: Dwarf Berserker
+      objectReference: {fileID: 0}
+    - target: {fileID: 100014, guid: 4b31158a600f6cd46b2255fe65387395, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400014, guid: 4b31158a600f6cd46b2255fe65387395, type: 3}
       propertyPath: m_LocalPosition.x
