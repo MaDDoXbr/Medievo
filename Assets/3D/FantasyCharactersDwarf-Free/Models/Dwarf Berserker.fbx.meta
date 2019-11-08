@@ -972,7 +972,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
-    motionNodeName: <Root Transform>
+    motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
     animationImportErrors: 
@@ -991,8 +991,8 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
-    animationCompression: 3
+    importConstraints: 1
+    animationCompression: 0
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -1025,8 +1025,300 @@ ModelImporter:
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []
       events: []
-      transformMask: []
-      maskType: 3
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Axe Dwarf Berserker
+        weight: 1
+      - path: Dwarf Berserker
+        weight: 1
+      - path: metarig
+        weight: 1
+      - path: metarig/root
+        weight: 1
+      - path: metarig/root/RUN
+        weight: 1
+      - path: metarig/root/RUN/foot.L.001
+        weight: 1
+      - path: metarig/root/RUN/foot.L.001/foot.L.001_end
+        weight: 1
+      - path: metarig/root/RUN/foot.R.001
+        weight: 1
+      - path: metarig/root/RUN/foot.R.001/foot.R.001_end
+        weight: 1
+      - path: metarig/root/RUN/forearm.L.001
+        weight: 1
+      - path: metarig/root/RUN/forearm.L.001/forearm.L.001_end
+        weight: 1
+      - path: metarig/root/RUN/forearm.R.001
+        weight: 1
+      - path: metarig/root/RUN/forearm.R.001/forearm.R.001_end
+        weight: 1
+      - path: metarig/root/RUN/shin.L.001
+        weight: 1
+      - path: metarig/root/RUN/shin.L.001/shin.L.001_end
+        weight: 1
+      - path: metarig/root/RUN/shin.R.001
+        weight: 1
+      - path: metarig/root/RUN/shin.R.001/shin.R.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine
+        weight: 1
+      - path: metarig/root/RUN/spine/Flagka
+        weight: 1
+      - path: metarig/root/RUN/spine/Flagka/Flagka_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.L
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.L/Rub.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.L.001
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.L.001/Rub.L.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.L.002
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.L.002/Rub.L.002_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.R
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.R/Rub.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.R.001
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.R.001/Rub.R.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.R.002
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.R.002/Rub.R.002_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L/Rubaha.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L.001
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L.001/Rubaha.L.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L.002
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L.002/Rubaha.L.002_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L.003
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L.003/Rubaha.L.003_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R/Rubaha.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R.001
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R.001/Rubaha.R.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R.002
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R.002/Rubaha.R.002_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R.003
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R.003/Rubaha.R.003_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/Napl.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/Napl.L/Napl.L.001
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/Napl.L/Napl.L.001/Napl.L.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index.01.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index.01.L/f_index.02.L/f_index.03.L/f_index.03.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle.01.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle.01.L/f_middle.02.L/f_middle.03.L/f_middle.03.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky.01.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L/f_pinky.03.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring.01.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring.01.L/f_ring.02.L/f_ring.03.L/f_ring.03.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.01.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.01.L/thumb.02.L/thumb.03.L/thumb.03.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/Napl.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/Napl.R/Napl.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index.01.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index.01.R/f_index.02.R/f_index.03.R/f_index.03.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle.01.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle.01.R/f_middle.02.R/f_middle.03.R/f_middle.03.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky.01.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R/f_pinky.03.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring.01.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring.01.R/f_ring.02.R/f_ring.03.R/f_ring.03.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.01.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.01.R/thumb.02.R/thumb.03.R/thumb.03.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/Weapon
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/Weapon/Weapon_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Boroda
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Boroda/Boroda.001
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Boroda/Boroda.001/Boroda.002
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Boroda/Boroda.001/Boroda.002/Boroda.003
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Boroda/Boroda.001/Boroda.002/Boroda.003/Boroda.004
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Boroda/Boroda.001/Boroda.002/Boroda.003/Boroda.004/Boroda.004_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Glaz
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Glaz/Glaz_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Glaz.001
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Glaz.001/Glaz.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Hvost
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Hvost/Hvost.001
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Hvost/Hvost.001/Hvost.002/Hvost.003
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Hvost/Hvost.001/Hvost.002/Hvost.003/Hvost.004
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Hvost/Hvost.001/Hvost.002/Hvost.003/Hvost.004/Hvost.004_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.L/Us.L.001
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.L/Us.L.001/Us.L.002
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.L/Us.L.001/Us.L.002/Us.L.003
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.L/Us.L.001/Us.L.002/Us.L.003/Us.L.004
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.L/Us.L.001/Us.L.002/Us.L.003/Us.L.004/Us.L.004_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.R/Us.R.001
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.R/Us.R.001/Us.R.002
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.R/Us.R.001/Us.R.002/Us.R.003
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.R/Us.R.001/Us.R.002/Us.R.003/Us.R.004
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.R/Us.R.001/Us.R.002/Us.R.003/Us.R.004/Us.R.004_end
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.L
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.L/shin.L
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.R
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.R/shin.R
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      maskType: 0
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
@@ -1054,8 +1346,300 @@ ModelImporter:
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
       curves: []
       events: []
-      transformMask: []
-      maskType: 3
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Axe Dwarf Berserker
+        weight: 1
+      - path: Dwarf Berserker
+        weight: 1
+      - path: metarig
+        weight: 1
+      - path: metarig/root
+        weight: 1
+      - path: metarig/root/RUN
+        weight: 1
+      - path: metarig/root/RUN/foot.L.001
+        weight: 1
+      - path: metarig/root/RUN/foot.L.001/foot.L.001_end
+        weight: 1
+      - path: metarig/root/RUN/foot.R.001
+        weight: 1
+      - path: metarig/root/RUN/foot.R.001/foot.R.001_end
+        weight: 1
+      - path: metarig/root/RUN/forearm.L.001
+        weight: 1
+      - path: metarig/root/RUN/forearm.L.001/forearm.L.001_end
+        weight: 1
+      - path: metarig/root/RUN/forearm.R.001
+        weight: 1
+      - path: metarig/root/RUN/forearm.R.001/forearm.R.001_end
+        weight: 1
+      - path: metarig/root/RUN/shin.L.001
+        weight: 1
+      - path: metarig/root/RUN/shin.L.001/shin.L.001_end
+        weight: 1
+      - path: metarig/root/RUN/shin.R.001
+        weight: 1
+      - path: metarig/root/RUN/shin.R.001/shin.R.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine
+        weight: 1
+      - path: metarig/root/RUN/spine/Flagka
+        weight: 1
+      - path: metarig/root/RUN/spine/Flagka/Flagka_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.L
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.L/Rub.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.L.001
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.L.001/Rub.L.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.L.002
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.L.002/Rub.L.002_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.R
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.R/Rub.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.R.001
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.R.001/Rub.R.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.R.002
+        weight: 1
+      - path: metarig/root/RUN/spine/Rub.R.002/Rub.R.002_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L/Rubaha.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L.001
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L.001/Rubaha.L.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L.002
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L.002/Rubaha.L.002_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L.003
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.L.003/Rubaha.L.003_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R/Rubaha.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R.001
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R.001/Rubaha.R.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R.002
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R.002/Rubaha.R.002_end
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R.003
+        weight: 1
+      - path: metarig/root/RUN/spine/Rubaha.R.003/Rubaha.R.003_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/Napl.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/Napl.L/Napl.L.001
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/Napl.L/Napl.L.001/Napl.L.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index.01.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index.01.L/f_index.02.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index.01.L/f_index.02.L/f_index.03.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index.01.L/f_index.02.L/f_index.03.L/f_index.03.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle.01.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle.01.L/f_middle.02.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle.01.L/f_middle.02.L/f_middle.03.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle.01.L/f_middle.02.L/f_middle.03.L/f_middle.03.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky.01.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky.01.L/f_pinky.02.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky.01.L/f_pinky.02.L/f_pinky.03.L/f_pinky.03.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring.01.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring.01.L/f_ring.02.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring.01.L/f_ring.02.L/f_ring.03.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring.01.L/f_ring.02.L/f_ring.03.L/f_ring.03.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.01.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.01.L/thumb.02.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.01.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.01.L/thumb.02.L/thumb.03.L/thumb.03.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/Napl.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/Napl.R/Napl.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index.01.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index.01.R/f_index.02.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index.01.R/f_index.02.R/f_index.03.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index.01.R/f_index.02.R/f_index.03.R/f_index.03.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle.01.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle.01.R/f_middle.02.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle.01.R/f_middle.02.R/f_middle.03.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle.01.R/f_middle.02.R/f_middle.03.R/f_middle.03.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky.01.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky.01.R/f_pinky.02.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky.01.R/f_pinky.02.R/f_pinky.03.R/f_pinky.03.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring.01.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring.01.R/f_ring.02.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring.01.R/f_ring.02.R/f_ring.03.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring.01.R/f_ring.02.R/f_ring.03.R/f_ring.03.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.01.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.01.R/thumb.02.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.01.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.01.R/thumb.02.R/thumb.03.R/thumb.03.R_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/Weapon
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/shoulder.R/upper_arm.R/forearm.R/hand.R/Weapon/Weapon_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Boroda
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Boroda/Boroda.001
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Boroda/Boroda.001/Boroda.002
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Boroda/Boroda.001/Boroda.002/Boroda.003
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Boroda/Boroda.001/Boroda.002/Boroda.003/Boroda.004
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Boroda/Boroda.001/Boroda.002/Boroda.003/Boroda.004/Boroda.004_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Glaz
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Glaz/Glaz_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Glaz.001
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Glaz.001/Glaz.001_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Hvost
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Hvost/Hvost.001
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Hvost/Hvost.001/Hvost.002
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Hvost/Hvost.001/Hvost.002/Hvost.003
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Hvost/Hvost.001/Hvost.002/Hvost.003/Hvost.004
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Hvost/Hvost.001/Hvost.002/Hvost.003/Hvost.004/Hvost.004_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.L
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.L/Us.L.001
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.L/Us.L.001/Us.L.002
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.L/Us.L.001/Us.L.002/Us.L.003
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.L/Us.L.001/Us.L.002/Us.L.003/Us.L.004
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.L/Us.L.001/Us.L.002/Us.L.003/Us.L.004/Us.L.004_end
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.R
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.R/Us.R.001
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.R/Us.R.001/Us.R.002
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.R/Us.R.001/Us.R.002/Us.R.003
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.R/Us.R.001/Us.R.002/Us.R.003/Us.R.004
+        weight: 1
+      - path: metarig/root/RUN/spine/spine.002/spine.003/spine.004/face/Us.R/Us.R.001/Us.R.002/Us.R.003/Us.R.004/Us.R.004_end
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.L
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.L/shin.L
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.R
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.R/shin.R
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: metarig/root/RUN/spine/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      maskType: 0
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
