@@ -7,14 +7,14 @@ public class EventTest : MonoBehaviour {
     public UnityEvent BigExplosionEvent;
 
     public delegate void voidDelegate();
-    public event voidDelegate _GameOver;
+    //public event voidDelegate _GameOver;
     
     public event Action GameOver;
 
     private void Awake()
     {
         GameOver += GameOverMessage;
-        _GameOver += GameOverMessage;
+        //_GameOver += GameOverMessage;
     }
 
     void Start()
