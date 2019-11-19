@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
+[Serializable]
 public class IntReference
 {
     public bool UseConstant = true;
     public int ConstantValue;
+    [SerializeField][Inline]
     public IntVariable Variable;
 
     public IntReference()

@@ -5,8 +5,8 @@ using UnityEngine;
 
 public class Armor : MonoBehaviour, IArmor
 {
-    [Inline]
-    public IntVariable currentHealth;
+    //[Inline]
+    public IntReference currentHealth;
     public float currentDamageMult = 1f;
     // Usamos um Abstract SO aqui para podermos tratar vários tipos de implementação diferentes
     [Inline]
@@ -14,12 +14,12 @@ public class Armor : MonoBehaviour, IArmor
     
     public int ApplyDamage(int damage)
     {
-        currentHealth.Value -= Mathf.RoundToInt(damage * currentDamageMult);
+        currentHealth.Variable.Value -= Mathf.RoundToInt(damage * currentDamageMult);
         return currentHealth.Value;
     }
 
     private void Start() {
-        currentHealth.Value = DefaultData.MaxHealth;
+        currentHealth.Variable.Value = DefaultData.MaxHealth;
         var standardArmor = DefaultData as StandardArmorData;
         if (standardArmor)
             currentDamageMult = standardArmor.DamageMultiplier;

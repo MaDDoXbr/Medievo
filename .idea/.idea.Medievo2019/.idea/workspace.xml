@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="283bf466-3bbe-47c3-b726-bf424fe87dac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/3D/FantasyCharactersDwarf-Free/Models/DraftFree.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3D/FantasyCharactersDwarf-Free/Models/DraftFree.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SelectRandomIdle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SelectRandomIdle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3D/FantasyCharactersDwarf-Free/Models/Dwarf_AC.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3D/FantasyCharactersDwarf-Free/Models/Dwarf_AC.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/GameData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/GameData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainGame.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainGame/NavMesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainGame/NavMesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableAssets/ReferenceValues/PlayerHealthInt.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableAssets/ReferenceValues/PlayerHealthInt.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Armor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Armor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/IntReference.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/IntReference.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,14 +23,32 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Tools/EzMsg/Demo/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/GameData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SetSliderFromInt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/IntReference.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SelectRandomIdle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/IntVariable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Armor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/AbstractSOs/AbstractArmorData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DictionaryTypes/StringGameObjectDict.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tools/EzMsg/Demo/IArmor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tools/ScriptableHelper/Editor/InlineAttributeDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MedievoProvider.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/EventTest.cs" />
         <option value="$PROJECT_DIR$/Assets/SelectRandomIdle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/AbstractSOs/AbstractArmorData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MedievoProvider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/DoTweenTestMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SetSliderFromInt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Armor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/IntReference.cs" />
       </list>
     </option>
   </component>
@@ -44,6 +68,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,6 +114,7 @@
       <workItem from="1572355863018" duration="1341000" />
       <workItem from="1572963508495" duration="3381000" />
       <workItem from="1573144104544" duration="2001000" />
+      <workItem from="1573564471165" duration="5248000" />
     </task>
     <servers />
   </component>
@@ -102,7 +128,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
