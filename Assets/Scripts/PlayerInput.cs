@@ -20,7 +20,14 @@ public class PlayerInput: MonoBehaviour, ICommands
         if (_blockInput)
             return;
         if (Input.GetMouseButtonDown((int) MouseButton.Left))
+        {
             gameObject.Send<ICmdReceiver>(_ => _.MousePressed(MouseButton.Left));
+            var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            // "out var hit" é uma declaração *inline* inferida (var) da variável hit, que é apenas de saída (out)
+            if (Physics.Raycast(ray, out var hit, Mathf.Infinity))   //, ~(1 << LayerMask.NameToLayer("Enemy"))))
+                gameObject.Send<IMover>(_=>_.SetDestination(hit.point));
+        }
+        // Pode ser utilizado por um script CmdReceiver para disparar ações especiais, por exemplo
         if (Input.GetMouseButtonDown((int) MouseButton.Right))
             gameObject.Send<ICmdReceiver>(_ => _.MousePressed(MouseButton.Right));
         if (Input.GetMouseButtonDown((int) MouseButton.Middle))

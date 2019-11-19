@@ -1,7 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
-using JetBrains.Annotations;
-using UnityEngine;
 using UnityEngine.EventSystems;
 
 public interface IFx : IEventSystemHandler
