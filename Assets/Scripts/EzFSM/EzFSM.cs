@@ -10,6 +10,17 @@ namespace Ez.FSM
         [SerializeField]
         public FSMstateIDActionDictionary ActionMap;
         
+        public void Update()
+        {
+            if (CurrentState == null)
+                return;
+            var CurrentAction = ActionMap[CurrentState];
+            if (CurrentAction == null)
+                return;
+            var CurrentUpdateAction = CurrentAction.Update;
+            CurrentUpdateAction?.Invoke();
+        }
+        
         public IEnumerable StateEnter(FSMStateID ID)
         {
             CurrentState = ID;
@@ -27,9 +38,9 @@ namespace Ez.FSM
 
         public IEnumerable StateUpdate(FSMStateID ID)
         {
-            if (ActionMap[ID] == null || ActionMap[ID].Stay == null)
+            if (ActionMap[ID] == null || ActionMap[ID].Update == null)
                 yield break;
-            ActionMap[ID].Stay.Invoke();
+            ActionMap[ID].Update.Invoke();
         }
 
         public FSMStateID GetState()
@@ -38,13 +49,13 @@ namespace Ez.FSM
         }
 
     }
-    
+
     [System.Serializable]
     public class FSMStateActions
     {
         public UnityEvent Enter;
         public UnityEvent Exit;
-        public UnityEvent Stay;
+        public UnityEvent Update;
     }
 
     [System.Serializable]

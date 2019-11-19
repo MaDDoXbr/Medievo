@@ -53,6 +53,7 @@
             </e>
           </e>
         </e>
+        <e p="GoblinActions.cs" t="Include" />
         <e p="Plugins" t="Include">
           <e p="UniRx" t="Include">
             <e p="Examples" t="Include">
@@ -364,11 +365,16 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="Armor.cs" t="Include" />
+          <e p="CharMover.cs" t="Include" />
           <e p="DictionaryTypes" t="Include">
             <e p="StringGameObjectDict.cs" t="Include" />
           </e>
-          <e p="DoTweenTestMover.cs" t="Include" />
           <e p="EventTest.cs" t="Include" />
+          <e p="EzFSM" t="Include">
+            <e p="EzFSM.cs" t="Include" />
+            <e p="FSMStateID.cs" t="Include" />
+            <e p="IFSM.cs" t="Include" />
+          </e>
           <e p="FX.cs" t="Include" />
           <e p="GateLock.cs" t="Include" />
           <e p="Interfaces" t="Include">
@@ -380,9 +386,9 @@
             <e p="IMover.cs" t="Include" />
             <e p="IWeapon.cs" t="Include" />
           </e>
+          <e p="LogoIntroMover.cs" t="Include" />
           <e p="MedievoProvider.cs" t="Include" />
           <e p="PlayerInput.cs" t="Include" />
-          <e p="PlayerMover.cs" t="Include" />
           <e p="ScriptableObjs" t="Include">
             <e p="AbstractSOs" t="Include">
               <e p="AbstractArmorData.cs" t="Include" />
@@ -403,6 +409,7 @@
           <e p="UITextFromInt.cs" t="Include" />
           <e p="Weapon.cs" t="Include" />
         </e>
+        <e p="SMB_StateNotifier.cs" t="Include" />
         <e p="Standard Assets" t="Include">
           <e p="2D" t="Include">
             <e p="Scripts" t="Include">

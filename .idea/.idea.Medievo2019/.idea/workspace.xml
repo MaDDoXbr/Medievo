@@ -5,13 +5,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Medievo2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/3D/FantasyCharactersDwarf-Free/Models/Dwarf_AC.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3D/FantasyCharactersDwarf-Free/Models/Dwarf_AC.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/GameData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/GameData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/3D/FantasyCharactersGoblinArcherFree/Models/GoblinFree.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/3D/FantasyCharactersGoblinArcherFree/Models/GoblinFree.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainGame.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainGame/NavMesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainGame/NavMesh.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableAssets/ReferenceValues/PlayerHealthInt.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableAssets/ReferenceValues/PlayerHealthInt.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Armor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Armor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/IntReference.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/IntReference.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EzFSM/EzFSM.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EzFSM/EzFSM.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,16 +22,22 @@
     <setting file="file://$PROJECT_DIR$/Assets/Tools/EzMsg/Demo/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/GameData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SetSliderFromInt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoblinActions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/IntReference.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/IntVariable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Armor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/AbstractSOs/AbstractArmorData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LogoIntroMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FX.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DictionaryTypes/StringGameObjectDict.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SMB_StateNotifier.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Tools/EzMsg/Demo/IArmor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Tools/ScriptableHelper/Editor/InlineAttributeDrawer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MedievoProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EzFSM/EzFSM.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -49,6 +51,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SetSliderFromInt.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Armor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjs/IntReference.cs" />
+        <option value="$PROJECT_DIR$/Assets/GoblinActions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EzFSM/EzFSM.cs" />
       </list>
     </option>
   </component>
@@ -115,6 +119,7 @@
       <workItem from="1572963508495" duration="3381000" />
       <workItem from="1573144104544" duration="2001000" />
       <workItem from="1573564471165" duration="5248000" />
+      <workItem from="1574170275672" duration="3327000" />
     </task>
     <servers />
   </component>
